@@ -24,8 +24,8 @@ KEY = 'ilovecats'
 <p>
    
 </p>
-<p>
-  <h3 align="center">
+<p align="center">
+  <h3>
     If you have more than one account on that website, you can:
   </h3>
   <p>Add a numer after the webpage: www.example_2.com</p>
@@ -47,7 +47,7 @@ Note: google.com and www.google.com will result in different passwords.
 
 You get:
 ```bash
-7>b+e$3æ2½7_1æa}
+7#3@2@6#a@f|3|2}
 ```
 <p>Every time you run the program with the same parameters, it will result in the same password, so you can login safely.
 </p>

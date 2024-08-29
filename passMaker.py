@@ -45,7 +45,7 @@ def hashWebsite(url):
     # and return the hash
     if webpage:
         hash_hex = hashString(webpage)
-        print(f'Returned the hash for: {webpage}')
+        #print(f'Returned the hash for: {webpage}')
         return hash_hex
     else:
         return False
