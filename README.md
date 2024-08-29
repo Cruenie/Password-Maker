@@ -10,14 +10,14 @@ SIGNS should include 10 special characters, and your KEY can be anything, as lon
 After running the program, you will be asked a URL. This is then parsed and used to create your unique password for that website.
 You can use the URL of the login page, URL of the main page, URL of a specific page, it doesn't matter as long as you input the same page, you will get the same unique password.
 If you have more than one account on that website, you can:
-Add a numer after the webpage: www.example_2.com
+Add a numer after the webpage: www.example2.com
 Add your nickname into the mix: www.example_coolnick.com
 or anthing, as long as you change the URL, you will get a unique password.
 ## Examples
 When you run the program using these .env variables
 ```bash
-SIGNS = '€₺#£[}@#|>'
-KEY = 'foo'
+SIGNS = '½#}_->$+ßæ'
+KEY = 'cats'
 ```
 and input 
 ```bash
