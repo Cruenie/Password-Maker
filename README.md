@@ -47,7 +47,7 @@ Note: google.com and www.google.com will result in different passwords.
 
 You get:
 ```bash
-7#3@2@6#a@f|3|2}
+7>b+e$3æ2½7_1æa}
 ```
 <p>Every time you run the program with the same parameters, it will result in the same password, so you can login safely.
 </p>
