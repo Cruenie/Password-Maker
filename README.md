@@ -1,15 +1,12 @@
 ## What is Pass Maker?
-<p align="center">
+<p>
   Pass Maker is a tool to create secure (hopefully) passwords that utilize hashes and private keys to create unique passwords for each user, for each website, for each account so that you don't need to trust some web service that is reliably storing all your passwords and can be accessed by any of your devices :3
-</p>
-<p align="center">
-  Join us, we're <a href="https://cypress.io/jobs">hiring</a>.
 </p>
 
 ## How to use PassMaker?
-<h4 align="center">
+<h3 align="center">
   You need to create a .env file with 2 fields: SIGNS and KEY, like so:
-</h4>
+</h3>
 
 ```bash
 SIGNS = '*.F_æÇ">*='
@@ -28,9 +25,9 @@ KEY = 'ilovecats'
    
 </p>
 <p align="center">
-  <h4>
+  <h3>
     If you have more than one account on that website, you can:
-  </h4>
+  </h3>
   <p>Add a numer after the webpage: www.example_2.com</p>
   <p>Add your nickname into the mix: www.example_coolnick.com</p>
   <p>or anthing, as long as you change the URL, you will get a unique password.</p>
