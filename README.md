@@ -24,8 +24,8 @@ KEY = 'ilovecats'
 <p>
    
 </p>
-<p align="center">
-  <h3>
+<p>
+  <h3 align="center">
     If you have more than one account on that website, you can:
   </h3>
   <p>Add a numer after the webpage: www.example_2.com</p>
