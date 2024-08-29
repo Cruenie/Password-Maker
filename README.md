@@ -7,12 +7,12 @@ SIGNS = '*.F_æÇ">*='
 KEY = 'ilovecats'
 ```
 SIGNS should include 10 special characters, and your KEY can be anything, as long as you keep it the same.
-After running the program, you will be asked a URL. This is then parsed and used to create your unique password for that website.
-You can use the URL of the login page, URL of the main page, URL of a specific page, it doesn't matter as long as you input the same page, you will get the same unique password.
-If you have more than one account on that website, you can:
-Add a numer after the webpage: www.example_2.com
-Add your nickname into the mix: www.example_coolnick.com
-or anthing, as long as you change the URL, you will get a unique password.
+After running the program, you will be asked a URL. This is then parsed and used to create your unique password for that website.\n
+You can use the URL of the login page, URL of the main page, URL of a specific page, it doesn't matter as long as you input the same page, you will get the same unique password.\n
+If you have more than one account on that website, you can:\n
+Add a numer after the webpage: www.example_2.com\n
+Add your nickname into the mix: www.example_coolnick.com\n
+or anthing, as long as you change the URL, you will get a unique password.\n
 ## Examples
 When you run the program using these .env variables
 ```bash
