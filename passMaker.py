@@ -1,7 +1,7 @@
 from hashlib import sha256
 from re import sub
 
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 from os import getenv
 
 try:
@@ -67,17 +67,18 @@ def parseHash(hash_hex):
 
 url = input('URL: ')
 theHash = hashWebsite(url)
-print(theHash)
+theHashNumeric = sub(r'\D', '', theHash)
+#print(theHash)
 parsedHash = parseHash(theHash)
-print(parsedHash)
-print(len(parsedHash))
-print(f'The hash for the key {KEY} is {hashString(KEY)}')
+#print(parsedHash)
+#print(len(parsedHash))
+#print(f'The hash for the key {KEY} is {hashString(KEY)}')
 
 # Leave only numeric characters
 numericKeyHash = sub(r'\D', '', hashString(KEY))
 numericKeyHashReversed = numericKeyHash[::-1]
-print(numericKeyHash)
-print(numericKeyHashReversed)
+#print(numericKeyHash)
+#print(numericKeyHashReversed)
 
 passString = ''
 lastIndex = None
@@ -89,11 +90,15 @@ for i in numericKeyHash:
     passString += parsedHash[int(i)]
     lastIndex = i
 
-print(passString)
-
+#print(passString)
+"""
 finalPass = ''
 for i in range(8):
     finalPass += f'{passString[i]}{SIGNS[int(numericKeyHashReversed[i])]}'
+"""
+finalPass = ''
+for i in range(8):
+    finalPass += f'{passString[i]}{SIGNS[int(theHashNumeric[i])]}'
 
 print(finalPass)
 print('')
