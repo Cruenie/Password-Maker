@@ -3,7 +3,7 @@ What is PassMaker?
 </h1>
 
 <p>
-  Pass Maker is a tool to create secure (hopefully) passwords that utilize hashes and private keys to create unique passwords for each user, for each website, for each account so that you don't need to trust some web service that is reliably storing all your passwords and can be accessed by any of your devices :3
+  PassMaker is a tool to create secure (hopefully), 16 char long passwords that utilize hashes and private keys to create unique passwords for each user, for each website, for each account so that you don't need to trust some web service that is conveniently storing all your passwords and can be accessed by any of your devices :3
 </p>
 
 <h1 align="center">
@@ -32,6 +32,7 @@ KEY = 'ilovecats'
 <p>
   <p>Add a numer after the webpage: www.example_2.com</p>
   <p>Add your nickname into the mix: www.example_coolnick.com</p>
+  <p>Add your nickname into the mix: cool_nick@example.com</p>
   <p>or anthing, as long as you change the URL, you will get a unique password.</p>
   <p> </p>
 </p>
