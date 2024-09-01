@@ -17,32 +17,23 @@ What is PassMaker?
 SIGNS = '*.F_æÇ">*='
 KEY = 'ilovecats'
 ```
-<p>
-  SIGNS should include 10 special characters, and your KEY can be anything, as long as you keep it the same.
-</p>
-<p>
-  After running the program, you will be asked a URL. This is then parsed and used to create your unique password for that website.
-</p>
-<p>
-  You can use the URL of the login page, URL of the main page, URL of a specific page, it doesn't matter as long as you input the same page, you will get the same unique password.
-</p>
+SIGNS should include 10 special characters, and your KEY can be anything, as long as you keep it the same.
+
+After running the program, you will be asked a URL. This is then parsed and used to create your unique password for that website.
+
+You can use the URL of the login page, URL of the main page, URL of a specific page, it doesn't matter as long as you input the same page, you will get the same unique password.
 
 ## If you have more than one account on that website, you can:
 
-<p>
-  <p>Add a numer after the webpage: www.example_2.com</p>
-  <p>Add your nickname into the mix: www.example_coolnick.com</p>
-  <p>Add your nickname into the mix: cool_nick@example.com</p>
-  <p>or anthing, as long as you change the URL, you will get a unique password.</p>
-  <p> </p>
-</p>
+* Add a numer after the webpage: www.example_2.com
+* Add your nickname into the mix: www.example_coolnick.com
+* Add your nickname into the mix: cool_nick@example.com
+* or anthing, as long as you change the URL, you will get a unique password.
 
-<h1 align="center">
-  Example*
-</h1>
+##  Example*
+
 When you run the program using these .env variables
-<p>
-</p>
+
 
 ```bash
 SIGNS = '½#}_->$+ßæ'
@@ -60,13 +51,14 @@ You get:
 ```
 7-bæeæ3½2}7+1_a}
 ```
-<p>Every time you run the program with the same parameters, it will result in the same password, so you can login safely.
-</p>
+Every time you run the program with the same parameters, it will result in the same password, so you can login safely.
 
-<p>Please note that in the future versions, the algorithm may change, causing you to lose your passwords. Make sure to use the same version. Updating your passwords with each version is recommended.
-</p>
-<p>*: Examples are outdated. The program holds integrity, just works in a different way now.
-</p>
+
+Please note that in the future versions, the algorithm may change, causing you to lose your passwords. Make sure to use the same version. Updating your passwords with each version is recommended.
+
+
+*: Examples are outdated. The program holds integrity, just works in a different way now.
+
 
 <h1 align="center">
   Notes
