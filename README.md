@@ -71,6 +71,8 @@ You get:
 <h1 align="center">
   Notes
 </h1>
+
 * Inputting https://google and google will change the output.
 * Adding tailing spaces to anything (KEY, URL...) will change the output.
 * The program doesn't log keys, so be careful while changing them since you may have to change your passwords.
+  
