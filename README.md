@@ -37,7 +37,7 @@ KEY = 'ilovecats'
 </p>
 
 <h1 align="center">
-  Example
+  Example*
 </h1>
 When you run the program using these .env variables
 <p>
@@ -63,4 +63,6 @@ You get:
 </p>
 
 <p>Please note that in the future versions, the algorithm may change, causing you to lose your passwords. Make sure to use the same version. Updating your passwords with each version is recommended.
+</p>
+<p>*Examples are outdated. The program holds integrity, just works in a different way now.
 </p>
