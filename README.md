@@ -25,9 +25,9 @@ You can use the URL of the login page, URL of the main page, URL of a specific p
 
 ## If you have more than one account on that website, you can:
 
-* Add a numer after the webpage: www.example_2.com
-* Add your nickname into the mix: www.example_coolnick.com
-* Add your nickname into the mix: cool_nick@example.com
+* Add a numer after the webpage: [www.example_2.com](www.example.com)
+* Add your nickname into the mix: [www.example_coolnick.com](www.example.com)
+* Add your nickname into the mix: [cool_nick@example.com](www.example.com)
 * or anthing, as long as you change the URL, you will get a unique password.
 
 ##  Example*
