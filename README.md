@@ -68,4 +68,18 @@ Please note that in the future versions, the algorithm may change, causing you t
 * Adding tailing spaces to anything (KEY, URL...) will change the output.
 * The program doesn't log keys, so be careful while changing them since you may have to change your passwords.
 * Experiment with the program. You can put the URL inside the KEY and put your KEY as an input, you can do whatever you want with this software. Stay secure!
-  
+
+
+<h1 align="center">
+  TODOs, maybe. More like CANDOs, CANDOs NUTS FITINYO-
+</h1>
+
+* Option to specify Password Length
+* Option to shuffle the parsed (split) URL hash
+* Refactor parsed to split XD
+* Create different generation methods
+* Option to create Passwords that can't be generated again using the same parameters (Password Randomization)
+
+🍪
+
+[Thanks, Mr 💀🎺](https://xn--rl8hlm.tk/) (Volume alert!)
