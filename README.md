@@ -1,5 +1,5 @@
 <h1 align="center">
-What is Pass Maker?
+What is PassMaker?
 </h1>
 
 <p>
