@@ -65,5 +65,12 @@ You get:
 
 <p>Please note that in the future versions, the algorithm may change, causing you to lose your passwords. Make sure to use the same version. Updating your passwords with each version is recommended.
 </p>
-<p>*Examples are outdated. The program holds integrity, just works in a different way now.
+<p>*: Examples are outdated. The program holds integrity, just works in a different way now.
 </p>
+
+<h1 align="center">
+  Notes
+</h1>
+* Inputting https://google and google will change the output.
+* Adding tailing spaces to anything (KEY, URL...) will change the output.
+* The program doesn't log keys, so be careful while changing them since you may have to change your passwords.
