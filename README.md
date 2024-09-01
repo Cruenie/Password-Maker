@@ -75,4 +75,5 @@ You get:
 * Inputting https://google and google will change the output.
 * Adding tailing spaces to anything (KEY, URL...) will change the output.
 * The program doesn't log keys, so be careful while changing them since you may have to change your passwords.
+* Experiment with the program. You can put the URL inside the KEY and put your KEY as an input, you can do whatever you want with this software. Stay secure!
   
