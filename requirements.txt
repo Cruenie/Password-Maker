@@ -1,4 +1,4 @@
-hashlib
-re
-dotenv
-os
+#hashlib
+#re
+python-dotenv
+#os
