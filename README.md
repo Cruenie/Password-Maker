@@ -57,7 +57,7 @@ Every time you run the program with the same parameters, it will result in the s
 Please note that in the future versions, the algorithm may change, causing you to lose your passwords. Make sure to use the same version. Updating your passwords with each version is recommended.
 
 
-*: Examples are outdated. The program holds integrity, just works in a different way now.
+*: Example is outdated.
 
 
 <h1 align="center">
